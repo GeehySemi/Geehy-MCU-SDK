@@ -36,10 +36,12 @@ This repository is an index and navigation hub only. Source code and release pac
 | --- | --- | --- | --- | --- |
 | APM32 | APM32F00x | [APM32F00x_SDK](https://github.com/GeehySemi/APM32F00x_SDK) | — | — |
 | APM32 | APM32F0xx | [APM32F0xx_SDK](https://github.com/GeehySemi/APM32F0xx_SDK) | — | — |
+| APM32 | APM32E030 | [APM32E030_SDK](https://github.com/GeehySemi/APM32E030_SDK) | - | - |
 | APM32 | APM32E10x | [APM32E10x_SDK](https://github.com/GeehySemi/APM32E10x_SDK) | [APM32E10x_EVAL_SDK](https://github.com/GeehySemi/APM32E10x_EVAL_SDK) | — |
 | APM32 | APM32F10x | [APM32F10x_SDK](https://github.com/GeehySemi/APM32F10x_SDK) | — | [LittleFS](https://github.com/GeehySemi/LittleFS) |
 | APM32 | APM32F4xx | [APM32F4xx_SDK](https://github.com/GeehySemi/APM32F4xx_SDK) | [APM32F4XX Resources](https://github.com/GeehySemi/APM32F4XX) | [LVGL port for APM32F427](https://github.com/GeehySemi/lv_port_apm32f427) |
 | G32 | G32R5xx | [G32R5xx_SDK](https://github.com/GeehySemi/G32R5xx_SDK) | — | — |
+
 
 > The table reflects the SDK repositories currently published under GeehySemi. Additional MCU families and software resources will be added as they become available.
 
@@ -136,6 +138,7 @@ For additional product documentation, software packages, development tools, and 
 | --- | --- | --- | --- | --- |
 | APM32 | APM32F00x | [APM32F00x_SDK](https://github.com/GeehySemi/APM32F00x_SDK) | — | — |
 | APM32 | APM32F0xx | [APM32F0xx_SDK](https://github.com/GeehySemi/APM32F0xx_SDK) | — | — |
+| APM32 | APM32E030 | [APM32E030_SDK](https://github.com/GeehySemi/APM32E030_SDK) | - | - |
 | APM32 | APM32E10x | [APM32E10x_SDK](https://github.com/GeehySemi/APM32E10x_SDK) | [APM32E10x_EVAL_SDK](https://github.com/GeehySemi/APM32E10x_EVAL_SDK) | — |
 | APM32 | APM32F10x | [APM32F10x_SDK](https://github.com/GeehySemi/APM32F10x_SDK) | — | [LittleFS](https://github.com/GeehySemi/LittleFS) |
 | APM32 | APM32F4xx | [APM32F4xx_SDK](https://github.com/GeehySemi/APM32F4xx_SDK) | [APM32F4XX 参考资源](https://github.com/GeehySemi/APM32F4XX) | [APM32F427 LVGL 移植](https://github.com/GeehySemi/lv_port_apm32f427) |
