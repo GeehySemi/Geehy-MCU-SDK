@@ -40,7 +40,11 @@ This repository is an index and navigation hub only. Source code and release pac
 | APM32 | APM32E10x | [APM32E10x_SDK](https://github.com/GeehySemi/APM32E10x_SDK) | [APM32E10x_EVAL_SDK](https://github.com/GeehySemi/APM32E10x_EVAL_SDK) | — |
 | APM32 | APM32F10x | [APM32F10x_SDK](https://github.com/GeehySemi/APM32F10x_SDK) | — | [LittleFS](https://github.com/GeehySemi/LittleFS) |
 | APM32 | APM32F4xx | [APM32F4xx_SDK](https://github.com/GeehySemi/APM32F4xx_SDK) | [APM32F4XX Resources](https://github.com/GeehySemi/APM32F4XX) | [LVGL port for APM32F427](https://github.com/GeehySemi/lv_port_apm32f427) |
+| APM32 | APM32F465 | [APM32F465_SDK](https://github.com/GeehySemi/APM32F465_SDK) | - | - |
+| APM32 | APM32F402、APM32F403 | [APM32F402_403_SDK](https://github.com/GeehySemi/APM32F402_403_SDK) | - | - |
+| APM32 | APM32F445、APM32F446 | [APM32F445_446_SDK](https://github.com/GeehySemi/APM32F445_446_SDK) | - | - |
 | G32 | G32R5xx | [G32R5xx_SDK](https://github.com/GeehySemi/G32R5xx_SDK) | — | — |
+| G32 | G32R430 | [G32R430_DDL_SDK](https://github.com/GeehySemi/G32R430_DDL_SDK) | — | — |
 
 
 > The table reflects the SDK repositories currently published under GeehySemi. Additional MCU families and software resources will be added as they become available.
@@ -142,7 +146,11 @@ For additional product documentation, software packages, development tools, and 
 | APM32 | APM32E10x | [APM32E10x_SDK](https://github.com/GeehySemi/APM32E10x_SDK) | [APM32E10x_EVAL_SDK](https://github.com/GeehySemi/APM32E10x_EVAL_SDK) | — |
 | APM32 | APM32F10x | [APM32F10x_SDK](https://github.com/GeehySemi/APM32F10x_SDK) | — | [LittleFS](https://github.com/GeehySemi/LittleFS) |
 | APM32 | APM32F4xx | [APM32F4xx_SDK](https://github.com/GeehySemi/APM32F4xx_SDK) | [APM32F4XX 参考资源](https://github.com/GeehySemi/APM32F4XX) | [APM32F427 LVGL 移植](https://github.com/GeehySemi/lv_port_apm32f427) |
+| APM32 | APM32F465 | [APM32F465_SDK](https://github.com/GeehySemi/APM32F465_SDK) | - | - |
+| APM32 | APM32F402、APM32F403 | [APM32F402_403_SDK](https://github.com/GeehySemi/APM32F402_403_SDK) | - | - |
+| APM32 | APM32F445、APM32F446 | [APM32F445_446_SDK](https://github.com/GeehySemi/APM32F445_446_SDK) | - | - |
 | G32 | G32R5xx | [G32R5xx_SDK](https://github.com/GeehySemi/G32R5xx_SDK) | — | — |
+| G32 | G32R430 | [G32R430_DDL_SDK](https://github.com/GeehySemi/G32R430_DDL_SDK) | — | — |
 
 > 本表汇总当前已在 GeehySemi 公开发布的主要 MCU SDK。后续新增产品系列及软件生态资源时将持续补充。
 
