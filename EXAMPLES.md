@@ -79,7 +79,7 @@ The current standalone-project search is concentrated on APM32. For G32 family r
 - USB CDC: [APM32F103_USB_CDC_VirtualCOMPort_Example](https://github.com/GeehySemi/APM32F103_USB_CDC_VirtualCOMPort_Example)
 - USB MSC firmware update: [APM32F407_USB_MSC_Firmware_Upgrade_Bootloader_Example](https://github.com/GeehySemi/APM32F407_USB_MSC_Firmware_Upgrade_Bootloader_Example)
 - USB HID from touch input: [APM32F072-USB-TSC-MOUSE](https://github.com/GeehySemi/APM32F072-USB-TSC-MOUSE), [APM32F072-USB-TSC-KEYBOARD](https://github.com/GeehySemi/APM32F072-USB-TSC-KEYBOARD)
-- CAN porting instructions: [APM32F103_CAN_Porting_Guide](https://github.com/GeehySemi/APM32F103_CAN_Porting_Guide) (guide, not a standalone demo project).
+- CAN porting instructions: [APM32F103_CAN_Porting_Guide](https://github.com/GeehySemi/APM32F103_CAN_Porting_Guide) (guide, not a standalone demo project; the README contains inconsistent MCU-family wording, so confirm the target before use).
 
 <a id="analog"></a>
 ### Analog and data acquisition | 模拟量与数据采集
