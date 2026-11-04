@@ -54,6 +54,6 @@ If Geehy later maintains shared RTOS port code for multiple MCU families, that c
 
 ## Examples and MCU-family resources | 示例与 MCU 系列资源
 
-Peripheral examples and device-specific integrations are maintained with their MCU SDKs. Start from the [MCU SDK index](https://github.com/GeehySemi/Geehy-MCU-SDK) and choose the target series.
+Standalone project examples have a dedicated [index](EXAMPLES.md), browsable by MCU series and function. Examples maintained inside a family SDK and device-specific integrations remain linked from the [MCU SDK index](https://github.com/GeehySemi/Geehy-MCU-SDK).
 
-外设示例和器件专用移植由对应 MCU SDK 仓库维护。请先从 [MCU SDK 索引](https://github.com/GeehySemi/Geehy-MCU-SDK) 选择目标系列，再查看该系列的示例和说明。
+独立项目例程请查看[例程索引](EXAMPLES.md)，可按 MCU 系列和功能查找。系列 SDK 内维护的示例及器件专用移植仍从 [MCU SDK 索引](https://github.com/GeehySemi/Geehy-MCU-SDK) 进入。
