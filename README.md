@@ -30,6 +30,9 @@ This repository is an index and navigation hub only. Source code and release pac
 4. Use the related middleware, tools, and reference projects when needed.
 5. For technical questions, open an Issue in the repository most closely related to your device or project.
 
+### Cross-Series Resources
+
+See the [cross-series resource index](RESOURCES.md) for operating systems, middleware, tools, board assets, and reference materials.
 
 ## APM32 Industrial-Grade MCUs
 The APM32 series comprises 32-bit MCUs based on Arm Cortex-M0+/M3/M4F cores. These MCUs deliver a blend of high performance, low power consumption, real-time capabilities, stability, security, and versatility, ensuring a rapid, straightforward, and flexible development experience. With diverse models catering to various applications, the APM32 lineup features a robust development ecosystem and finds extensive use in industrial control, automotive electronics, high-end consumer electronics, smart homes, new energy, and communication facilities.
@@ -37,7 +40,7 @@ The APM32 series comprises 32-bit MCUs based on Arm Cortex-M0+/M3/M4F cores. The
 | MCU Series | Official SDK | Evaluation / Reference Resources | Related Middleware / Ports |
 | --- | --- | --- | --- |
 | APM32F00x | [APM32F00x_SDK](https://github.com/GeehySemi/APM32F00x_SDK) | — | — |
- APM32F0xx | [APM32F0xx_SDK](https://github.com/GeehySemi/APM32F0xx_SDK) | — | — |
+| APM32F0xx | [APM32F0xx_SDK](https://github.com/GeehySemi/APM32F0xx_SDK) | — | — |
 | APM32E030 | [APM32E030_SDK](https://github.com/GeehySemi/APM32E030_SDK) | - | - |
 | APM32E10x | [APM32E10x_SDK](https://github.com/GeehySemi/APM32E10x_SDK) | [APM32E10x_EVAL_SDK](https://github.com/GeehySemi/APM32E10x_EVAL_SDK) | — |
 | APM32F10x | [APM32F10x_SDK](https://github.com/GeehySemi/APM32F10x_SDK) | — | [LittleFS](https://github.com/GeehySemi/LittleFS) |
@@ -108,13 +111,17 @@ For additional product documentation, software packages, development tools, and 
 4. 根据项目需求使用对应的中间件、开发工具或参考工程。
 5. 遇到技术问题时，优先在与器件或项目最相关的仓库中提交 Issue。
 
+### 跨系列资源索引
+
+操作系统、中间件、开发工具、板级固件及参考资料请查看[跨系列资源索引](RESOURCES.md)。
+
 ## APM32工业级微控制器
 APM32是基于Arm® Cortex®-M0+/M3/M4F内核的32位微控制器，集高性能、低功耗、实时性、稳定性、安全性、多功能、快速移植等特性于一体，提供快速、简易、灵活的开发体验，帮助用户节省开发成本，实现性能最优化。APM32产品阵容丰富，开发生态资源完善，已在工业控制、汽车电子、高端消费电子、智慧家居、新能源、以及通信设施等领域得到广泛使用。
 
- MCU 系列 | 官方 SDK | 评估板 / 参考资源 | 相关中间件 / 移植 |
+| MCU 系列 | 官方 SDK | 评估板 / 参考资源 | 相关中间件 / 移植 |
 | --- | --- | --- | --- |
 | APM32F00x | [APM32F00x_SDK](https://github.com/GeehySemi/APM32F00x_SDK) | — | — |
- APM32F0xx | [APM32F0xx_SDK](https://github.com/GeehySemi/APM32F0xx_SDK) | — | — |
+| APM32F0xx | [APM32F0xx_SDK](https://github.com/GeehySemi/APM32F0xx_SDK) | — | — |
 | APM32E030 | [APM32E030_SDK](https://github.com/GeehySemi/APM32E030_SDK) | - | - |
 | APM32E10x | [APM32E10x_SDK](https://github.com/GeehySemi/APM32E10x_SDK) | [APM32E10x_EVAL_SDK](https://github.com/GeehySemi/APM32E10x_EVAL_SDK) | — |
 | APM32F10x | [APM32F10x_SDK](https://github.com/GeehySemi/APM32F10x_SDK) | — | [LittleFS](https://github.com/GeehySemi/LittleFS) |
