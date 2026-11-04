@@ -34,6 +34,10 @@ This repository is an index and navigation hub only. Source code and release pac
 
 See the [cross-series resource index](RESOURCES.md) for operating systems, middleware, tools, board assets, and reference materials.
 
+### Independent Project Examples
+
+Browse the [standalone examples index](EXAMPLES.md) by MCU series or function.
+
 ## APM32 Industrial-Grade MCUs
 The APM32 series comprises 32-bit MCUs based on Arm Cortex-M0+/M3/M4F cores. These MCUs deliver a blend of high performance, low power consumption, real-time capabilities, stability, security, and versatility, ensuring a rapid, straightforward, and flexible development experience. With diverse models catering to various applications, the APM32 lineup features a robust development ecosystem and finds extensive use in industrial control, automotive electronics, high-end consumer electronics, smart homes, new energy, and communication facilities.
 
@@ -114,6 +118,10 @@ For additional product documentation, software packages, development tools, and 
 ### 跨系列资源索引
 
 操作系统、中间件、开发工具、板级固件及参考资料请查看[跨系列资源索引](RESOURCES.md)。
+
+### 独立项目例程
+
+通过[独立项目例程索引](EXAMPLES.md)按 MCU 系列或功能查找。
 
 ## APM32工业级微控制器
 APM32是基于Arm® Cortex®-M0+/M3/M4F内核的32位微控制器，集高性能、低功耗、实时性、稳定性、安全性、多功能、快速移植等特性于一体，提供快速、简易、灵活的开发体验，帮助用户节省开发成本，实现性能最优化。APM32产品阵容丰富，开发生态资源完善，已在工业控制、汽车电子、高端消费电子、智慧家居、新能源、以及通信设施等领域得到广泛使用。
